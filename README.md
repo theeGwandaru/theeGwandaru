@@ -1,4 +1,4 @@
-## Salimika 👋, My name is Moses Munene 🧑‍💻.
+## Hi there 👋, My name is Moses Munene 🧑‍💻.
 
 [![Repos Badge](https://badges.pufler.dev/repos/theeGwandaru)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/theeGwandaru)](https://badges.pufler.dev)
 
@@ -18,6 +18,13 @@
  - Java,Spring,JavaEE
  - MSSQL, Mysql, Mongodb, PouchDb, RxDB, CouchDb
  - Kafka, ActiveMQ, RabbitMQ 
+
+### Things I have worked on
+- mFieldwork (http://www.mfieldwork.com/)
+- Transuinion Africa client interface (https://secure4.crbafrica.com/ke/),(https://secure4.crbafrica.com/zm/),(https://secure4.crbafrica.com/bw/)
+- KatesApartments (https://katesapartments.com/)
+- Kupangisha (https://kupangisha.com/)
+
 
 ### Currently Learning
 - CSS
