@@ -21,7 +21,7 @@
 
 ### Things I have worked on
 - mFieldwork (http://www.mfieldwork.com/)
-- Transuinion Africa client interface (https://secure4.crbafrica.com/ke/),(https://secure4.crbafrica.com/zm/),(https://secure4.crbafrica.com/bw/)
+- Transuinion Africa client interface (https://secure4.crbafrica.com/ke/)
 - KatesApartments (https://katesapartments.com/)
 - Kupangisha (https://kupangisha.com/)
 
