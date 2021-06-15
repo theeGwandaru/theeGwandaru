@@ -2,7 +2,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/theeGwandaru)](https://badges.pufler.dev)  [![Years Badge](https://badges.pufler.dev/years/theeGwandaru)](https://badges.pufler.dev)
 
-###### I build things. Sometimes I make money from them. Hoping to make a lot of money from them 
+###### I build things. Sometimes I make money from them. 
 
 
 
@@ -21,7 +21,7 @@
 
 ### Things I have worked on
 - mFieldwork (http://www.mfieldwork.com/)
-- Transuinion Africa client interface (https://secure4.crbafrica.com/ke/)
+- Transunion Africa client interface (https://secure4.crbafrica.com/ke/)
 - KatesApartments (https://katesapartments.com/)
 - Kupangisha (https://kupangisha.com/)
 
