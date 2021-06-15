@@ -7,6 +7,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moses-munene-43844174/)
+[![Codepen](https://img.shields.io/badge/Codepen-green.svg?style=for-the-badge&logo=codepen)](https://codepen.io/theeGwandaru)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/MosesGwandaru)
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@Ndazi)
 
